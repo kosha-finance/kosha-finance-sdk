@@ -275,7 +275,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Links
 
 - **Website**: [http://kosha.finance](http://kosha.finance)
-- **API Documentation**: [https://api.kosha.finance/docs](https://api.kosha.finance/docs)
+- **API Documentation**: [https://kosha-finance.github.io/kosha-finance-sdk/docs/](https://kosha-finance.github.io/kosha-finance-sdk/docs/)
 - **LinkedIn**: [https://www.linkedin.com/company/kosha-finance/](https://www.linkedin.com/company/kosha-finance/)
 - **GitHub**: [https://github.com/kosha-finance](https://github.com/kosha-finance)
 
