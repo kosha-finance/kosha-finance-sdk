@@ -1,0 +1,6 @@
+amount,currency,transaction_date,description,reference_id
+100.50,USD,2025-01-15,Payment to Acme Corp,INV-001
+250.00,USD,2025-01-16,Office supplies - Staples,PO-1234
+1500.00,USD,2025-01-17,Consulting services - Q1,INV-002
+75.25,USD,2025-01-18,Software subscription - Adobe,SUB-456
+320.00,USD,2025-01-19,Marketing campaign - Google Ads,ADV-789
