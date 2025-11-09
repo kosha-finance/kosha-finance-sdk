@@ -561,6 +561,7 @@ for (const txn of transactions) {
 ## 🤝 Support
 
 - **Email**: opensource@kosha.finance
+- **Sales**: hello@kosha.finance
 - **Issues**: [GitHub Issues](https://github.com/kosha-finance/kosha-finance-sdk/issues)
 - **LinkedIn**: [Kosha Finance](https://www.linkedin.com/company/kosha-finance/)
 
