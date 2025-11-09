@@ -1,0 +1,45 @@
+{
+  "name": "@kosha-finance/client",
+  "version": "1.0.0",
+  "description": "TypeScript/JavaScript client SDK for Kosha Finance Reconciliation API",
+  "main": "dist/kosha-client.js",
+  "types": "dist/kosha-client.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "lint": "eslint src/**/*.ts",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "kosha",
+    "kosha-finance",
+    "reconciliation",
+    "api-client",
+    "financial",
+    "batch-processing",
+    "transaction-matching"
+  ],
+  "author": "Kosha Finance Dev Team <opensource@kosha.finance>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kosha-finance/kosha-finance-sdk.git",
+    "directory": "sdks/typescript"
+  },
+  "bugs": {
+    "url": "https://github.com/kosha-finance/kosha-finance-sdk/issues"
+  },
+  "homepage": "https://kosha.finance",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "eslint": "^8.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "jest": "^29.0.0"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
